@@ -1,0 +1,4 @@
+- 👋 Hi, I’m MowzTamson
+- 👀 I’m interested in games and ML 
+- 🌱 I’m currently learning C#, C, Python
+- 📫 My instagram is @hooman82_
