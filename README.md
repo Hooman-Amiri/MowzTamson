@@ -1,4 +1,4 @@
-- 👋 Hi, I’m MowzTamson
+- 👋 Hi, I’m Hooman Amiri
 - 👀 I’m interested in gameing ,music and programing
 - 🌱 I’m currently learning C#, C, Python
 - 📫 My instagram is @hooman_og
