@@ -1,4 +1,4 @@
 - 👋 Hi, I’m MowzTamson
-- 👀 I’m interested in games and ML 
+- 👀 I’m interested in gameing ,music and programing
 - 🌱 I’m currently learning C#, C, Python
-- 📫 My instagram is @hooman82_
+- 📫 My instagram is @hooman_og
